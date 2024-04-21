@@ -20,24 +20,6 @@ As a data scientist at British Airways (BA), the primary task is to scrape and c
 - Create visualizations and metrics to illustrate key insights derived from the analysis.
 - Provide clear and concise explanations to quickly convey the key points from the analysis.
 
-## Solution:
-The project involves scraping customer feedback from Skytrax, focusing on British Airways reviews, and analyzing the data to uncover actionable insights. The following steps are undertaken:
-
-1. Data Collection:
-- Utilize Python and libraries such as BeautifulSoup and requests for web scraping.
-- Collect review data from Skytrax, focusing on British Airways.
-- Ensure comprehensive data collection to enhance the quality of analysis.
-2. Data Analysis:
-- Perform data cleaning to handle messy text data.
-- Apply natural language processing techniques for analysis, including sentiment analysis, topic modeling, and word clouds.
-- Utilize Python for analysis, leveraging libraries such as NLTK, spaCy, and scikit-learn.
-3. Presentation of Insights:
-- Summarize findings in a PowerPoint slide for presentation at the board meeting.
-- Create visualizations such as bar charts, word clouds, and sentiment distributions to illustrate key insights.
-- Provide clear and concise explanations of the analysis results to facilitate understanding by stakeholders.
-
-Overall, the project aims to leverage customer feedback analysis to drive informed decision-making and enhance the customer experience at British Airways.
-
 ### Host Organization:
 British Airways/Forage.
 ### Program Level:
