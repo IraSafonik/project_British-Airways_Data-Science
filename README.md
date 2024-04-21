@@ -1,4 +1,4 @@
-# Project: British Airways - Data Science Online Internship with Certificate
+# Project: British Airways - Data Science Online Internship
 
 ![ba-logo-white-on-blue-01](https://github.com/IraSafonik/project_British-Airways_Data-Science/assets/32171563/2aa04782-cdae-4378-9043-9a7bcfe8c9c7) 
 
