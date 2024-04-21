@@ -8,15 +8,13 @@ British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Eve
 ## Task 1:
 As a data scientist at British Airways (BA), the primary task is to scrape and collect customer feedback from a third-party source, specifically focusing on reviews about the airline itself. The data collected will then be analyzed to uncover insights that can influence key business decisions, reduce costs, and increase revenue.
 
-1. Scrape Data from the Web:
-- Utilize web scraping techniques to collect review data from Skytrax.
-- Focus on reviews specifically about British Airways.
-- Ensure thorough data collection to enhance the output of the analysis.
+1. Scrape Data from Skytrax:
+- Collect reviews specifically about British Airways.
+- Ensure comprehensive data collection for insightful analysis.
 2. Analyse Data:
 - Perform data cleaning to prepare the collected dataset for analysis.
 - Apply analytical techniques such as topic modeling, sentiment analysis, or word clouds to extract insights from the data.
 - Utilize Python for data analysis, but other tools can be used as well.
-- Ensure that the data is stored in a "data" folder and the file path is appropriately mapped.
 3. Present Insights:
 - Summarize findings within a single PowerPoint slide for presentation at the next board meeting.
 - Create visualizations and metrics to illustrate key insights derived from the analysis.
@@ -40,11 +38,11 @@ The project involves scraping customer feedback from Skytrax, focusing on Britis
 
 Overall, the project aims to leverage customer feedback analysis to drive informed decision-making and enhance the customer experience at British Airways.
 
-## Host Organization:
-British Airways/Forge.
-## Program Level:
+### Host Organization:
+British Airways/Forage.
+### Program Level:
 Virtual Experience Program/Internship Program
-## Program Duration:
-The duration of the British Airways Online Internship with Certificate is Up to 2.5 hours.
-## Program link: Forage
-## Certificate of completion: 
+### Program Duration:
+The duration of the British Airways Online Internship with Certificate is Up to 4 hours.
+### Program link: Forage
+### Certificate of completion: 
