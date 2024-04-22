@@ -52,7 +52,7 @@ Task Overview:
 ### Program Level:
 Virtual Experience Program/Internship Program
 ### Program Duration:
-The duration of the British Airways Online Internship with Certificate is Up to 4 hours.
+The duration of the British Airways Online Internship took 3 days.
 ### Program link: 
 [Forage](https://www.theforage.com/simulations/british-airways/data-science-yqoz)
 ### Certificate of completion:
