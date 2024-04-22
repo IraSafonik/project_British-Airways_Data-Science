@@ -27,10 +27,10 @@ As a data scientist at British Airways (BA), the primary task is to scrape and c
 
 
 ### Host Organization:
-British Airways/Forage.
+(British Airways/Forage)[https://www.britishairways.com/travel/home/public/en_ua/]
 ### Program Level:
 Virtual Experience Program/Internship Program
 ### Program Duration:
 The duration of the British Airways Online Internship with Certificate is Up to 4 hours.
-### Program link: Forage
-### Certificate of completion: 
+### Program link: (Forage)[https://www.theforage.com/simulations/british-airways/data-science-yqoz]
+### Certificate of completion:
