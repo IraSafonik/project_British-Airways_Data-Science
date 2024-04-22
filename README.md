@@ -47,6 +47,15 @@ Task Overview:
 ## Сonclusion:
 <img width="987" alt="Знімок екрана 2024-04-22 о 15 35 41" src="https://github.com/IraSafonik/project_British-Airways_Data-Science/assets/32171563/5fd9d25b-ceb1-48c7-abc0-6a432c93e177">
 
+What I`ve learned from this program:
+- Discovered the intricate relationship between data science and British Airways company through hands-on tasks.
+- Acquired insights into the significance of customer review data analysis in understanding consumer behavior and improving services.
+- Explored the predictive modeling process to uncover key factors influencing purchasing decisions, contributing to strategic decision-making.
+- Developed a deeper appreciation for the role of data science in shaping organizational strategies and driving innovation
+
+Overall, it was a valuable experience that gave me insight into the intricacies of data science in the aviation industry.
+
+
 ### Host Organization:
 [British Airways/Forage](https://www.britishairways.com/travel/home/public/en_ua/)
 ### Program Level:
@@ -56,3 +65,5 @@ The duration of the British Airways Online Internship took 3 days.
 ### Program link: 
 [Forage](https://www.theforage.com/simulations/british-airways/data-science-yqoz)
 ### Certificate of completion:
+<img width="1215" alt="Знімок екрана 2024-04-22 о 16 02 22" src="https://github.com/IraSafonik/project_British-Airways_Data-Science/assets/32171563/0ea4b755-f67d-469f-8c26-ab15c32f6d20">
+
