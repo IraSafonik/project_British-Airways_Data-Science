@@ -45,6 +45,7 @@ Task Overview:
 - Summarize findings in a single slide using provided PowerPoint Template.
 
 ## Сonclusion:
+<img width="987" alt="Знімок екрана 2024-04-22 о 15 35 41" src="https://github.com/IraSafonik/project_British-Airways_Data-Science/assets/32171563/5fd9d25b-ceb1-48c7-abc0-6a432c93e177">
 
 ### Host Organization:
 [British Airways/Forage](https://www.britishairways.com/travel/home/public/en_ua/)
