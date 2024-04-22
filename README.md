@@ -20,6 +20,12 @@ As a data scientist at British Airways (BA), the primary task is to scrape and c
 - Create visualizations and metrics to illustrate key insights derived from the analysis.
 - Provide clear and concise explanations to quickly convey the key points from the analysis.
 
+## Сonclusion:
+<img width="990" alt="Знімок екрана 2024-04-22 о 13 05 51" src="https://github.com/IraSafonik/project_British-Airways_Data-Science/assets/32171563/6d767d39-347b-4cdd-bd19-d8011d11d1fe">
+
+<img width="982" alt="Знімок екрана 2024-04-22 о 13 06 02" src="https://github.com/IraSafonik/project_British-Airways_Data-Science/assets/32171563/971d3836-529f-4c3d-ae08-25896b82372f">
+
+
 ### Host Organization:
 British Airways/Forage.
 ### Program Level:
